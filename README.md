@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @guthaVamshi
-- 👀 I’m interested in web development
+- 👀 I’m interested in web development,software-development
 - 🌱 I’m currently pursuing my B.tech
 - 
 - 
