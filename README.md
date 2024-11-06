@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ vamshi gutha
-- 👀 I’m interested in web development,software-development
-- 🌱 I’m currently pursuing my B.tech
+- 👀 I’m interested in Salesforce Development & Salesforce Admin
+- 🌱 I’m currently pursuing my masters in USA
 
 
 
