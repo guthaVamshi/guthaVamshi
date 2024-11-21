@@ -7,6 +7,17 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vamshi-gutha-0ab293174) 
 
 # 💻 Tech Stack:
+### **Salesforce Technologies**
+
+![Apex](https://img.shields.io/badge/Apex-%234497D5.svg?style=for-the-badge&logo=salesforce&logoColor=white)  
+![Marketing Cloud](https://img.shields.io/badge/Marketing%20Cloud-%230068C5.svg?style=for-the-badge&logo=salesforce&logoColor=white)  
+![Admin](https://img.shields.io/badge/Salesforce%20Admin-%2325A9E0.svg?style=for-the-badge&logo=salesforce&logoColor=white)  
+![LWC](https://img.shields.io/badge/LWC-%23004092.svg?style=for-the-badge&logo=lightningwebcomponents&logoColor=white)  
+![REST API](https://img.shields.io/badge/REST%20API-%23FF8000.svg?style=for-the-badge&logo=api&logoColor=white)  
+![SOAP API](https://img.shields.io/badge/SOAP%20API-%234AB3F4.svg?style=for-the-badge&logo=api&logoColor=white)  
+
+
+---
 ### **Programming Languages**
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  
@@ -36,12 +47,8 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
 
-### **Specialized Platforms**
-![Salesforce](https://img.shields.io/badge/Salesforce-0080FF)  
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)  
-
 # 📊 GitHub Stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=guthaVamshi&theme=dark&border_radius=5.4&mode=weekly&card_width=200&type=png&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)<br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=guthaVamshi&theme=dark&border_radius=5.4&mode=weekly&card_width=200&type=png&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)<br/></br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=guthaVamshi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
