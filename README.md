@@ -9,12 +9,7 @@
 # 💻 Tech Stack:
 ### **Salesforce Technologies**
 
-![Apex](https://img.shields.io/badge/Apex-%234497D5.svg?style=for-the-badge&logo=salesforce&logoColor=white)  
-![Marketing Cloud](https://img.shields.io/badge/Marketing%20Cloud-%230068C5.svg?style=for-the-badge&logo=salesforce&logoColor=white)  
-![Admin](https://img.shields.io/badge/Salesforce%20Admin-%2325A9E0.svg?style=for-the-badge&logo=salesforce&logoColor=white)  
-![LWC](https://img.shields.io/badge/LWC-%23004092.svg?style=for-the-badge&logo=lightningwebcomponents&logoColor=white)  
-![REST API](https://img.shields.io/badge/REST%20API-%23FF8000.svg?style=for-the-badge&logo=api&logoColor=white)  
-![SOAP API](https://img.shields.io/badge/SOAP%20API-%234AB3F4.svg?style=for-the-badge&logo=api&logoColor=white)  
+![Apex](https://img.shields.io/badge/Apex-%234497D5.svg?style=for-the-badge&logo=salesforce&logoColor=white)  ![Marketing Cloud](https://img.shields.io/badge/Marketing%20Cloud-%230068C5.svg?style=for-the-badge&logo=salesforce&logoColor=white)  ![Admin](https://img.shields.io/badge/Salesforce%20Admin-%2325A9E0.svg?style=for-the-badge&logo=salesforce&logoColor=white)  ![LWC](https://img.shields.io/badge/LWC-%23004092.svg?style=for-the-badge&logo=lightningwebcomponents&logoColor=white)  ![REST API](https://img.shields.io/badge/REST%20API-%23FF8000.svg?style=for-the-badge&logo=api&logoColor=white)  ![SOAP API](https://img.shields.io/badge/SOAP%20API-%234AB3F4.svg?style=for-the-badge&logo=api&logoColor=white)  
 
 
 ---
