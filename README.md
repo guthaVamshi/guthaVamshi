@@ -1,6 +1,6 @@
 # 💫 About Me:
 - 👀 I’m interested in Salesforce Development & Salesforce Admin
-- 🌱 I’m currently pursuing my masters in Computer Science, USA
+- 🌱 I have recently completed my masters in Computer Science, USA
 
 
 ## 🌐 Socials:
